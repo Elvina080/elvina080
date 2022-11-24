@@ -20,8 +20,11 @@
 
 
 ## Portfolio
-* [Test Cases](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf)
-* [Checklists](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%D1%8B.pdf)
-* [Bug reports](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%91%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.pdf)
+### * [Test Cases](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf)
+### * [Checklists](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%D1%8B.pdf)
+### * [Bug reports](https://github.com/Elvina080/elvina080/blob/main/ascets/%D0%91%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.pdf)
 
 ## Follow Me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/elvina080gareeva)
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vino.el_/)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=518ce9)](https://t.me/Vin0_el)
