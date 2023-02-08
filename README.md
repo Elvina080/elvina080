@@ -1,6 +1,6 @@
 ## Hi, I'm a QA Engineer. 
 ## My CV 
-[![CV](https://github.com/Elvina080/elvina080/blob/main/ascets/CV_Elvina_Gareeva%201.png)](https://github.com/Elvina080/elvina080/blob/main/ascets/CV_Elvina_Gareeva.pdf)
+[![CV](https://github.com/Elvina080/elvina080/blob/main/ascets/CV_Elvina_Gareeva_page-0001.jpg)](https://github.com/Elvina080/elvina080/blob/main/ascets/CV_Elvina_Gareeva.pdf)
 
 ## Tools and Languages
 ![Git Bash](https://img.shields.io/badge/-Git_Bash-090909?style=for-the-badge&logo=git&logoColor=518ce9)
