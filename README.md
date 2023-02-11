@@ -17,7 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=VisualStudio&logoColor=518ce9)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=VisualStudio&logoColor=518ce9)
 ![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=VisualStudio&logoColor=518ce9)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=VisualStudio&logoColor=518ce9)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=518ce9)
 
 
 ## Portfolio
