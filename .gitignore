@@ -1,0 +1,6 @@
+.idea
+*__pycache__
+.pytest_cache
+config_local.py
+/files/data.csv
+.DS_Store
