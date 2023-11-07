@@ -74,8 +74,8 @@ class Cart_siteshit(Base):
         def go_to_cart(self):
                 cart_button = self.get_cart_button()
                 cart_button.click()
-                self.title_cnt = int(self.get_cart_title.split()[0]) # количество товаров
-                self.title_price = int(self.get_cart_title.split()[-2]) # итоговая стоимость
+                self.title_cnt = int(self.get_cart_title().split()[0]) # количество товаров
+                self.title_price = int(self.get_cart_title().split()[-2]) # итоговая стоимость
                 self.cart_composition()
 
         
