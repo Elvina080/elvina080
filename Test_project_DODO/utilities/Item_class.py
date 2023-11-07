@@ -68,6 +68,8 @@ class Item(Base):
                 
         # Магические методы
 
+
+
         def __add__(self, other):
                 '''Магический метод для сложения цен объектов'''
                 if not isinstance(other, (Item, int)):
@@ -76,6 +78,7 @@ class Item(Base):
                 if isinstance(other, Item):
                         x = other.price
                 return self.price + x
+
         def __radd__(self, other):
                 '''Магический метод для сложения суммы с ценой объекта'''
                 if not isinstance(other, (Item, int)):

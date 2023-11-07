@@ -16,6 +16,10 @@ def test_smoke_1():
 
         # Инициализация вебдрайвера, чтобы окно не закрывалось
         options = webdriver.ChromeOptions()
+  
+        options.add_argument('--ignore-certificate-errors')
+        options.add_argument('--ignore-ssl-errors')
+        options.page_load_strategy = 'eager'
         options.add_experimental_option("detach", True)
         driver = webdriver.Chrome(options=options, service=Service())
         
